@@ -4,7 +4,7 @@
 [submodule "opendbc"]
   path = opendbc_repo
   url = https://github.com/johnmarksilly/opendbc.git
-  branch = carnival-steering
+	branch = carnival-cut-1frame
 [submodule "msgq"]
   path = msgq_repo
   url = https://github.com/sunnypilot/msgq.git
